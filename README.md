@@ -38,7 +38,7 @@ Este projeto consiste em um simulador de banco de dados para uma empresa de via�
 *   Validação de integridade de dados através de triggers.
 *   Otimização de consultas com índices e views.
 
-[Link para o Projeto no GitHub][https://github.com/seu-usuario/seu-repositorio-viacao-unifil](https://github.com/Jao2k25/viacao-unifil-db)
+**Link para o Projeto no GitHub:** [https://github.com/seu-usuario/seu-repositorio-viacao-unifil](https://github.com/Jao2k25/viacao-unifil-db)
 ## Contato
 
 Sinta-se à vontade para entrar em contato para discutir projetos, oportunidades ou apenas para trocar ideias!
