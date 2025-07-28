@@ -1,16 +1,48 @@
-## Hi there 👋
+# João Pedro - Desenvolvedor Web & Analista de Sistemas
 
-<!--
-**Jao2k25/Jao2k25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Olá! Meu nome é João Pedro e sou um entusiasta da programação, com 21 anos, natural do Paraná. Minha jornada no mundo da tecnologia começou cedo, e desde então, tenho me dedicado a aprimorar minhas habilidades e conhecimentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou formado no ensino médio e possuo cursos técnicos em Informática Avançada, Design Gráfico e Programação, o que me proporcionou uma base sólida e multidisciplinar. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFil, onde busco aprofundar ainda mais meus conhecimentos e me manter atualizado com as últimas tendências do mercado.
+
+Minha paixão principal é o desenvolvimento web. Gosto de criar soluções inovadoras e funcionais, transformando ideias em realidade através do código. Posso dizer que sou um desenvolvedor web por vocação, sempre em busca de novos desafios e oportunidades para aplicar e expandir minhas competências.
+
+## Habilidades
+
+*   **Linguagens de Programação:** SQL, HTML, CSS, Java e JavaScript.
+*   **Bancos de Dados:** MySQL.
+*   **Desenvolvimento Web:** WordPress.
+*   **Ferramentas:** Git, GitHub, VS Code, Power BI Desktop.
+*   **Design:** Pacote Adobe (Photoshop, Illustrator, InDesign, etc.) e CorelDRAW X8.
+*   **Outros:** Domínio de ferramentas e conceitos de programação web.
+
+## Projetos
+
+### Simulador de Banco de Dados para Viação UniFil
+
+Este projeto consiste em um simulador de banco de dados para uma empresa de viação, desenvolvido como parte dos meus estudos na UniFil. Ele abrange a criação de um esquema de banco de dados robusto, com tabelas para ônibus, rotas, viagens, clientes e passagens, além de procedimentos armazenados, triggers e views para simular operações do mundo real, como a compra e cancelamento de passagens e a verificação de assentos disponíveis.
+
+**Tecnologias Utilizadas:**
+
+*   MySQL
+*   SQL
+
+**Funcionalidades Principais:**
+
+*   Gerenciamento de ônibus e assentos.
+*   Definição de rotas e agendamento de viagens.
+*   Cadastro de clientes.
+*   Compra e cancelamento de passagens com controle de disponibilidade de assentos.
+*   Validação de integridade de dados através de triggers.
+*   Otimização de consultas com índices e views.
+
+[Link para o Projeto no GitHub](https://github.com/seu-usuario/seu-repositorio-viacao-unifil)
+## Contato
+
+Sinta-se à vontade para entrar em contato para discutir projetos, oportunidades ou apenas para trocar ideias!
+
+*   **Email:** [jp.palasson.dutra@gmail.com](mailto:jp.palasson.dutra@gmail.com)
+*   **GitHub:** [Jao2k25](https://github.com/Jao2k25)
+
+---
