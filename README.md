@@ -25,6 +25,7 @@ Este projeto consiste em um simulador de banco de dados para uma empresa de via√
 
 **Tecnologias Utilizadas:**
 
+*   VS Code
 *   MySQL
 *   SQL
 
