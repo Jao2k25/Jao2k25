@@ -38,7 +38,25 @@ Este projeto consiste em um simulador de banco de dados para uma empresa de via�
 *   Validação de integridade de dados através de triggers.
 *   Otimização de consultas com índices e views.
 
-**Link para o Projeto no GitHub:** [https://github.com/seu-usuario/seu-repositorio-viacao-unifil](https://github.com/Jao2k25/viacao-unifil-db)
+**Link para o Projeto no GitHub:** (https://github.com/Jao2k25/viacao-unifil-db)
+
+### Simulador de Fila de Impressão em Java
+
+Este projeto é um simulador de fila de impressão desenvolvido em Java, utilizando a estrutura de dados de Fila para gerenciar a ordem de impressão de documentos. Ele demonstra o funcionamento de uma fila de impressão, onde documentos são adicionados e processados em ordem de chegada (FIFO - First-In, First-Out).
+
+**Tecnologias Utilizadas:**
+
+*   Java
+*   Estrutura de Dados: Fila (Queue)
+*   Ambiente de Desenvolvimento: Visual Studio Code (VS Code)
+
+**Funcionalidades Principais:**
+
+*   Adicionar novos documentos à fila de impressão.
+*   Processar (imprimir) o próximo documento na fila.
+*   Visualizar o estado atual da fila.
+
+**Link para o Projeto no GitHub:** (https://github.com/Jao2k25/simulador-fila-impressao)
 ## Contato
 
 Sinta-se à vontade para entrar em contato para discutir projetos, oportunidades ou apenas para trocar ideias!
