@@ -4,7 +4,7 @@
 
 Olá! Meu nome é João Pedro e sou um entusiasta da programação, com 21 anos, natural do Paraná. Minha jornada no mundo da tecnologia começou cedo, e desde então, tenho me dedicado a aprimorar minhas habilidades e conhecimentos.
 
-Sou formado no ensino médio e possuo cursos técnicos em Informática Avançada, Design Gráfico e Programação, o que me proporcionou uma base sólida e multidisciplinar. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFil, onde busco aprofundar ainda mais meus conhecimentos e me manter atualizado com as últimas tendências do mercado.
+Sou formado no ensino médio e possuo cursos técnicos em Informática Básica, Design Gráfico e Programação, o que me proporcionou uma base sólida e multidisciplinar. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFil, onde busco aprofundar ainda mais meus conhecimentos e me manter atualizado com as últimas tendências do mercado.
 
 Minha paixão principal é o desenvolvimento web. Gosto de criar soluções inovadoras e funcionais, transformando ideias em realidade através do código. Posso dizer que sou um desenvolvedor web por vocação, sempre em busca de novos desafios e oportunidades para aplicar e expandir minhas competências.
 
