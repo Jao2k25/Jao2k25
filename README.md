@@ -17,10 +17,7 @@ Minha paixão principal é o desenvolvimento web. Gosto de criar soluções inov
 
 ## Habilidades
 
-*   **Linguagens de Programação:** SQL, HTML, CSS, Java e JavaScript.
-*   **Bancos de Dados:** MySQL.
-*   **Desenvolvimento Web:** WordPress.
-*   **Ferramentas:** Git, GitHub, VS Code, Power BI Desktop.
+*   **Ferramentas:** Power BI Desktop.
 *   **Design:** Pacote Adobe (Photoshop, Illustrator, InDesign, etc.) e CorelDRAW X8.
 *   **Outros:** Domínio de ferramentas e conceitos de programação web.
 
@@ -97,6 +94,46 @@ Minha paixão principal é o desenvolvimento web. Gosto de criar soluções inov
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+<img
+    align="left"
+    alt="VScode"
+    title="VScode"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+<img
+    align="left"
+    alt="AfterEffects"
+    title="AfterEffects"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"
+/>
+<img
+    align="left"
+    alt="Illustrator"
+    title="Illustrator"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg"
+/>
+<img
+    align="left"
+    alt="Photoshop"
+    title="Photoshop"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
+/>
+<img
+    align="left"
+    alt="PremierePro"
+    title="PremierePro"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"
 />
 
 <br/>
