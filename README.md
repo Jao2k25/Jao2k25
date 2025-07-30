@@ -1,4 +1,4 @@
-# João Pedro - Desenvolvedor Web & Analista de Sistemas
+# João Pedro - Desenvolvedor Web Júnior & Analista de Sistemas
 
 ## Sobre Mim
 
