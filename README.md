@@ -141,21 +141,21 @@ Minha paixão principal é o desenvolvimento web. Gosto de criar soluções inov
 
 ### Estatísticas
 
-<p>
-  <img
+<img
     align="left"
     alt="GitHub Stats"
     height="200"
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=Jao2k25&show_icons=true&theme=tokyonight"
-  />
+/>
 
-  <img
+<img
     align="left"
     alt="GitHub Stats"
     height="200"
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jao2k25&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
+/>
 
 <br/>
 <br/>
