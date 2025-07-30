@@ -162,6 +162,8 @@ Minha paixão principal é o desenvolvimento web. Gosto de criar soluções inov
 <br/>
 <br/>
 
+---
+
 ## Projetos
 
 ### Simulador de Banco de Dados para Viação UniFil
