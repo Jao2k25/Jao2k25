@@ -24,7 +24,7 @@ Minha paixão principal é o desenvolvimento web. Gosto de criar soluções inov
 *   **Design:** Pacote Adobe (Photoshop, Illustrator, InDesign, etc.) e CorelDRAW X8.
 *   **Outros:** Domínio de ferramentas e conceitos de programação web.
 
-### Linguagens
+### Linguagens e Tecnologias
 
 <img
     align="left"
@@ -65,6 +65,14 @@ Minha paixão principal é o desenvolvimento web. Gosto de criar soluções inov
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
 />
 
 <br/>
