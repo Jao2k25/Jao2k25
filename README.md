@@ -24,8 +24,6 @@ Minha paixão principal é o desenvolvimento web. Gosto de criar soluções inov
 *   **Design:** Pacote Adobe (Photoshop, Illustrator, InDesign, etc.) e CorelDRAW X8.
 *   **Outros:** Domínio de ferramentas e conceitos de programação web.
 
----
-
 ### Linguagens
 
 <img
