@@ -17,6 +17,13 @@ Minha paixão principal é o desenvolvimento web. Gosto de criar soluções inov
 *   **Design:** Pacote Adobe (Photoshop, Illustrator, InDesign, etc.) e CorelDRAW X8.
 *   **Outros:** Domínio de ferramentas e conceitos de programação web.
 
+<p align="left">
+  <a href="https://github.com/Jao2k25?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jao2k25?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/Jao2k25?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on Github" src="https://custom-icon-badges.demolab.com/github/stars/Jao2k25?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+
 ## Projetos
 
 ### Simulador de Banco de Dados para Viação UniFil
