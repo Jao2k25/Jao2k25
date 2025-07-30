@@ -8,6 +8,13 @@ Sou formado no ensino médio e possuo cursos técnicos em Informática Básica, 
 
 Minha paixão principal é o desenvolvimento web. Gosto de criar soluções inovadoras e funcionais, transformando ideias em realidade através do código. Posso dizer que sou um desenvolvedor web por vocação, sempre em busca de novos desafios e oportunidades para aplicar e expandir minhas competências.
 
+<p align="left">
+  <a href="https://github.com/Jao2k25?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jao2k25?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/Jao2k25?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on Github" src="https://custom-icon-badges.demolab.com/github/stars/Jao2k25?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+
 ## Habilidades
 
 *   **Linguagens de Programação:** SQL, HTML, CSS, Java e JavaScript.
@@ -16,13 +23,6 @@ Minha paixão principal é o desenvolvimento web. Gosto de criar soluções inov
 *   **Ferramentas:** Git, GitHub, VS Code, Power BI Desktop.
 *   **Design:** Pacote Adobe (Photoshop, Illustrator, InDesign, etc.) e CorelDRAW X8.
 *   **Outros:** Domínio de ferramentas e conceitos de programação web.
-
-<p align="left">
-  <a href="https://github.com/Jao2k25?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jao2k25?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/Jao2k25?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on Github" src="https://custom-icon-badges.demolab.com/github/stars/Jao2k25?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
 
 ## Projetos
 
