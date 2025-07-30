@@ -35,6 +35,7 @@ Minha paixão principal é o desenvolvimento web. Gosto de criar soluções inov
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
 
+
 ## Projetos
 
 ### Simulador de Banco de Dados para Viação UniFil
