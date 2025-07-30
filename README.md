@@ -166,7 +166,6 @@ Minha paixão principal é o desenvolvimento web. Gosto de criar soluções inov
 <br/>
 <br/>
 <br/>
-<br/>
 
 ## Projetos
 
