@@ -213,5 +213,6 @@ Sinta-se à vontade para entrar em contato para discutir projetos, oportunidades
 
 *   **Email:** [jp.palasson.dutra@gmail.com](mailto:jp.palasson.dutra@gmail.com)
 *   **GitHub:** [Jao2k25](https://github.com/Jao2k25)
+*   **LinkedIn:** [João Pedro](https://www.linkedin.com/in/jo%C3%A3o-pedro-palasson-dutra-416400272/)
 
 ---
