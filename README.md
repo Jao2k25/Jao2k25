@@ -175,7 +175,7 @@ Este projeto consiste em um simulador de banco de dados para uma empresa de via�
 
 **Tecnologias Utilizadas:**
 
-*   VS Code
+*   Cursor
 *   MySQL
 *   SQL
 
@@ -198,7 +198,7 @@ Este projeto é um simulador de fila de impressão desenvolvido em Java, utiliza
 
 *   Java
 *   Estrutura de Dados: Fila (Queue)
-*   Ambiente de Desenvolvimento: Visual Studio Code (VS Code)
+*   Ambiente de Desenvolvimento: Cursor
 
 **Funcionalidades Principais:**
 
