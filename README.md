@@ -211,7 +211,6 @@ Este projeto é um simulador de fila de impressão desenvolvido em Java, utiliza
 
 Sinta-se à vontade para entrar em contato para discutir projetos, oportunidades ou apenas para trocar ideias!
 
-*   **Email:** [jp.palasson.dutra@gmail.com](mailto:jp.palasson.dutra@gmail.com)
 *   **GitHub:** [Jao2k25](https://github.com/Jao2k25)
 
 ---
