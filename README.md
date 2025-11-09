@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá! Meu nome é João Pedro e sou um entusiasta da programação, com 21 anos, natural do Paraná. Minha jornada no mundo da tecnologia começou cedo, e desde então, tenho me dedicado a aprimorar minhas habilidades e conhecimentos.
+Olá! Meu nome é João Pedro e sou um entusiasta da programação, com 21 anos, natural de Santa Catarina. Minha jornada no mundo da tecnologia começou cedo, e desde então, tenho me dedicado a aprimorar minhas habilidades e conhecimentos.
 
 Sou formado no ensino médio e possuo cursos técnicos em Informática Básica, Design Gráfico e Programação, o que me proporcionou uma base sólida e multidisciplinar. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, onde busco aprofundar ainda mais meus conhecimentos e me manter atualizado com as últimas tendências do mercado.
 
